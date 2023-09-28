@@ -10,6 +10,6 @@ This repository contains a mobile user interface (UI) redesign for Amazon's home
 
 ## Preview
 
-[Link to Live Preview](https://example.com)
+[Link to Live Preview](azclone.netlify.app)
 
 ![Preview Image](preview.png)
