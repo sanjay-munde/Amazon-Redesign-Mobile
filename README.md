@@ -10,4 +10,6 @@ This repository contains a mobile user interface (UI) redesign for Amazon's home
 
 ## Preview
 
-[Insert a screenshot or description of your project here.]
+[Link to Live Preview](https://example.com)
+
+![Preview Image](preview.png)
