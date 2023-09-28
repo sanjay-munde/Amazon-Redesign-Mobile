@@ -8,5 +8,5 @@
 - CSS
 
 ## Preview
-
+See the page in action:
 ![Preview Image](preview.png)
